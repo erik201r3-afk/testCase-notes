@@ -1,0 +1,7 @@
+testCase\Notes\NotesApplication.class
+Repository\InMemoryNoteRepository.class
+Model\Note.class
+Service\NoteServiceImpl.class
+Repository\NoteRepository.class
+Controller\NoteController.class
+Service\NoteService.class
